@@ -1,0 +1,24 @@
+
+.d-flex {
+    display: flex; /*tudo mesma linha*/
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-items-center {
+    justify-items: center;
+}
+
+.p-1 {
+    padding: 5px;
+}
+
+.p-2 {
+    padding: 10px;
+}
+
+.p-3 {
+    padding: 15px;
+}

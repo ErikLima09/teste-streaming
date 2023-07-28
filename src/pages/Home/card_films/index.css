@@ -1,0 +1,29 @@
+
+
+.filme {
+    width: 33.33%;
+    height: 150px;
+}
+
+.content {
+    padding: 10px;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.abreviacao {
+    height: 80%;
+    background-color: grey;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodape {
+    height: 20%;
+    background-color: transparent;
+    color: white;
+    margin-top: 0.5em;
+    font-size: 16px;
+}
